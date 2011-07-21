@@ -1,0 +1,17 @@
+TANGENT PROJECT 
+===============
+
+* Folder Structure
+==================
+    * eng	    - this is engine folder.
+	* soo	    - this is server engine folder.
+	* coo	    - this is client engine folder.
+	* com	    - this is common folder for client and server.
+	    * lib   - this is client and server together using libs.
+	    * dec   - this is client and server together using header files.
+
+	* res	    - this is engine using resources. 
+	* doc	    - this is engine documents.
+    * doo	    - this is demo for engine.
+	* res	    - this is demo resources.
+    * data	    - 3rd party books & paper, etc.
